@@ -1,0 +1,11 @@
+---
+title: "First Post"
+date: 2017-10-09T18:06:23+02:00
+draft: false
+---
+
+= Document Title
+:icons: font
+
+NOTE: Asciidoctor supports font-based admonition icons, powered by Font Awesome!
+
